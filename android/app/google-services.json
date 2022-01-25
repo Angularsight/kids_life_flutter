@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700834570781",
+    "project_id": "kids-life-farm",
+    "storage_bucket": "kids-life-farm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700834570781:android:d7be70294cb76d69f21cf4",
+        "android_client_info": {
+          "package_name": "com.example.kids_life_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700834570781-orctn0nm4eu584g5t96k7uke9fej3od1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kids_life_flutter",
+            "certificate_hash": "8a491adc711a3b3b3e66511acafcf0a2f4907543"
+          }
+        },
+        {
+          "client_id": "700834570781-vged1a76k3mt9vmepshu2afb6d7ufs3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACt2czOvttojulEb2XrOOmwGcoWd-ZOT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700834570781-vged1a76k3mt9vmepshu2afb6d7ufs3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
